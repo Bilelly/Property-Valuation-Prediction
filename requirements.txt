@@ -1,0 +1,11 @@
+
+# Requirements for notebook analyses and visualizations
+pandas>=1.3
+numpy>=1.21
+matplotlib>=3.4
+seaborn>=0.11
+plotly>=5.0
+scipy>=1.7
+statsmodels>=0.13
+ipykernel
+jupyter
